@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Default Color</key>
+	<string>blue</string>
+	<key>Folder Name</key>
+	<string>Physio.mailstationery</string>
+	<key>HTML File</key>
+	<string>content.html</string>
+	<key>Images</key>
+	<array>
+		<dict>
+			<key>blue</key>
+			<string>roundedtop.jpg</string>
+		</dict>
+		<dict>
+			<key>blue</key>
+			<string>roundedbottom.jpg</string>
+		</dict>
+		<dict>
+			<key>blue</key>
+			<string>bkg_footerblue.jpg</string>
+		</dict>
+		<dict>
+			<key>blue</key>
+			<string>rounded.jpg</string>
+		</dict>	
+		<dict>
+			<key>blue</key>
+			<string>georgetown_bull_small.jpg</string>
+		</dict>
+	</array>
+	<key>Letter Rectangle</key>
+	<dict>
+		<key>Top Margin</key>
+		<string>37</string>
+		<key>Width</key>
+		<string>660</string>
+	</dict>
+	<key>Stationery ID</key>
+	<string>4CC41708-00CB-4866-9802-DEEA2729C175</string>
+	<key>Thumbnail Image</key>
+	<string>thumbnail.png</string>
+</dict>
+</plist>
